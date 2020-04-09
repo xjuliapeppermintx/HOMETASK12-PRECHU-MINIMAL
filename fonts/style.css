@@ -1,0 +1,10 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "SegoeWP-Light";
+
+  src: url("./fonts/segoe-wp-light.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/segoe-wp-light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/segoe-wp-light.woff") format("woff"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
